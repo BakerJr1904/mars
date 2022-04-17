@@ -3,4 +3,4 @@ This is a fictional website about a mars convention. Mars conventions do happen,
 ### My favorite things to do are: 👨‍💻
 I love to code in many languages HTML, CSS, Ruby, Python 🐍<br/>
 I also love to make FLASK apps. I spend my day thinking about new ways to use data science to help businesses out.<br/>
-I have a bunch of new flask apps using Python and data science coming your way
+I have a bunch of new flask apps using Python and data science coming your way.
