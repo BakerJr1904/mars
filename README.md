@@ -8,3 +8,5 @@ I have a bunch of new flask apps using Python and data science coming your way.<
 It's actually done and being used on a website, I just need to customize it for a Flask App <br/>
 It actually takes a resume and compares it to a job description - to see how likely you will be interviewed.
 ### Document Scanner
+This unique project takes a real document, and compaires it to another document to tell you if it is real or fake.<br/>
+Any document Driver's license, passport, identification... just about anything!!
